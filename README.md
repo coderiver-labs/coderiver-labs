@@ -1,16 +1,49 @@
-## Hi there 👋
+---
 
-<!--
-**coderiver-labs/coderiver-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About
+I build secure and scalable backend systems — auth flows, task queues, and production-ready APIs.  
+Currently focusing on **Django, DRF, Celery + RabbitMQ, Docker (CLI)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+<p align="left">  
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" alt="CSS3"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="65" height="65" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg" width="65" height="65" alt="htmx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65" alt="JavaScript"/>  
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="Python"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="65" height="65" alt="Django"/>  
+
+  <!-- Databases / Caches -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="65" height="65" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="65" height="65" alt="Redis"/>  
+
+  <!-- Message Queue / DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="65" height="65" alt="RabbitMQ"/>  
+  <img src="./assets/celery.png" width="65" height="65" alt="Celery"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker"/>  
+</p>
+
+---
+
+## ✨ Fun Fact
+While learning, I never truly lose — I store my mistakes as deep knowledge 🧩.
+
+---
+
+
+## 📫 Contact
+
+- Email: <alice.web.1011@gmail.com>  
+- GitHub: [@alice8180](https://github.com/alice8180)
+
+---
+
+<p align="center">Made with ❤️ by <b>Mahfuj</b></p>
