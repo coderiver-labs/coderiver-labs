@@ -42,7 +42,7 @@ While learning, I never truly lose — I store my mistakes as deep knowledge �
 ## 📫 Contact
 
 - Email: <alice.web.1011@gmail.com>  
-- GitHub: [@alice8180](https://github.com/alice8180)
+- GitHub: [@coderiver-labs](https://github.com/coderiver-labs/)
 
 ---
 
