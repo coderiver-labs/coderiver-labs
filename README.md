@@ -1,33 +1,98 @@
+# Hi, I'm Mahfuj
+
+**Backend Engineer · Django / DRF · Security-Focused Architecture**
+
+I build **secure, maintainable backend systems and REST APIs**, with a focus on authentication, authorization, asynchronous processing, payments, and production infrastructure.
+
+Currently focused on **scalable system design, performance, security, and production engineering**.
+
 ---
 
-## 👨‍💻 About
-I build secure and scalable backend systems — auth flows, task queues, and production-ready APIs.  
-Currently focusing on **Django, DRF, Celery + RabbitMQ, Docker (CLI)**.
-
----
-
-## 🔧 Tech Stack
+## Core Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" alt="HTML5"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" alt="CSS3"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="65" alt="Bootstrap"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg" width="65" alt="htmx"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" alt="JavaScript"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" alt="Python"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="65" alt="Django"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" alt="PostgreSQL"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="65" alt="MySQL"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="65" alt="Redis"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="65" alt="RabbitMQ"/><img src="./assets/celery.png" width="65" alt="Celery"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="42" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="42" alt="RabbitMQ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="42" alt="Nginx"/>
 </p>
 
+**Backend**  
+Python · Django · Django REST Framework · PostgreSQL · Django ORM · REST APIs
+
+**Security**  
+Cookie-based authentication · CSRF protection · RBAC · Object-level authorization · API throttling
+
+**Async & Infrastructure**  
+Celery · RabbitMQ · Docker · Docker Compose · Nginx · Linux
+
+**Observability**  
+Prometheus · Grafana · Loki · Promtail · Sentry
+
+**Integrations**  
+Stripe · Webhooks · External service integrations
 
 ---
 
-## ✨ Fun Fact
-While learning, I never truly lose — I store my mistakes as deep knowledge 🧩.
+## Featured Project
+
+### Campus Secure Backend
+
+A production-oriented **school management backend** built with Django REST Framework.
+
+**Architecture includes**
+
+- Role-based authentication & authorization
+- Student, teacher & academic management
+- Examination and marks management
+- Monthly & yearly fee management
+- Stripe Checkout & webhook integration
+- Celery + RabbitMQ background processing
+- Protected media handling
+- Dockerized deployment
+- Nginx reverse proxy
+- Prometheus + Grafana monitoring
+- Loki centralized logging
+- Sentry error tracking
+
+**→ [View Repository](https://github.com/coderiver-labs/campus-secure-backend)**
 
 ---
 
+## Engineering Focus
 
-## 📫 Contact
+```text
+Security
+   ↓
+Clear authorization boundaries
+   ↓
+Maintainable architecture
+   ↓
+Efficient database access
+   ↓
+Asynchronous processing
+   ↓
+Production observability
+```
 
-- Email: <mahfujkhan.dev@gmail.com>  
-- GitHub: [@coderiver-labs](https://github.com/coderiver-labs/)
+I prefer **explicit architecture over unnecessary abstraction** and design systems around real access patterns, clear responsibilities, and operational reliability.
 
 ---
 
-<p align="center">Made with ❤️ by <b>Mahfuj</b></p>
+## Currently Exploring
 
+**Advanced Django & DRF** · **Backend Security** · **System Design**  
+**Distributed Processing** · **Containerized Deployment** · **Observability**
 
+---
+
+## 📫 Connect
+
+**Email:** mahfujkhan@tuta.io  
+**GitHub:** [@coderiver-labs](https://github.com/coderiver-labs)
+
+<p align="center">
+  <sub>Build it secure. Keep it maintainable.</sub>
+</p>
