@@ -29,6 +29,8 @@ JWT Cookie-based authentication · CSRF protection · RBAC · Object-level autho
 **Async & Infrastructure**  
 Celery · RabbitMQ · Docker · Docker Compose · Nginx · Linux
 
+**Caching:** Redis
+
 **Observability**  
 Prometheus · Grafana · Loki · Promtail · Sentry
 
