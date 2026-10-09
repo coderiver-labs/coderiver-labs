@@ -24,7 +24,7 @@ Currently focused on **scalable system design, performance, security, and produc
 Python · Django · Django REST Framework · PostgreSQL · Django ORM · REST APIs
 
 **Security**  
-Cookie-based authentication · CSRF protection · RBAC · Object-level authorization · API throttling
+JWT Cookie-based authentication · CSRF protection · RBAC · Object-level authorization · API throttling
 
 **Async & Infrastructure**  
 Celery · RabbitMQ · Docker · Docker Compose · Nginx · Linux
